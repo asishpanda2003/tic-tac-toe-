@@ -3,7 +3,7 @@
 This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
 ## How to Play
-
+**LIVE IN:** https://asishpanda2003.github.io/tic-tac-toe-/
 1. **Open the Game:** Open the `index.html` file in your web browser.
 2. **Game Interface:**
    - The game board consists of a 3x3 grid.
@@ -18,12 +18,6 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 - CSS
 - JavaScript
 
-## Preview
-  - **Drow:**
-![image](https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/3e55c085-500d-43de-b18e-45c64b1836df)
-  - **Win:**
-    ![image](https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS/assets/111286013/54be259c-6113-4687-a3cb-07e351e88683)
-
 
 ## How to Run Locally
 
@@ -31,7 +25,7 @@ To run the game locally on your machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/chintamani-pala/tic-tac-toe-.git
+   git clone https://github.com/asishpanda2003/tic-tac-toe-.clone
    ```
 2. setup:
   - 1. Navigate to the project directory.
